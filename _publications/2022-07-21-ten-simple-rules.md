@@ -1,7 +1,7 @@
 ---
 title: "Ten simple rules to host an inclusive conference"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-07-21-ten-simple-rules
 excerpt: 'This paper is about best practices to host an inclusive conference'
 date: 2022-07-21
 venue: 'PLOS Computational Biology'
