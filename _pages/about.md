@@ -16,7 +16,7 @@ Research is not just a profession; it's a way of life. I believe in the power of
 
 If you're interested in collaboration, have questions, or simply want to say hello, feel free to reach out via the contact page. I am always open to connecting with like-minded individuals and engaging in stimulating conversations.
 
-Thank you for visiting, and I hope you enjoy exploring my world of research and discovery. Together, let's embark on a journey to unravel the mysteries of [your research field] and make a lasting impact on our ever-evolving world.
+Thank you for visiting, and I hope you enjoy exploring my world of research and discovery. Together, let's embark on a journey to unravel the mysteries of bioinformatics and make a lasting impact on our ever-evolving world.
 
 Happy exploring!
 
