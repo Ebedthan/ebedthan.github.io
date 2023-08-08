@@ -2,8 +2,6 @@
 permalink: /book/
 title: "Book"
 author_profile: true
-redirect_from: 
-  - /book/
 ---
 
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
