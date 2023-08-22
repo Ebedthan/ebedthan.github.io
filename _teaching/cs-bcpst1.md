@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/cs-bcpst1
 venue: "Classes Préparatoires aux Grandes Ecoles, INP-HB"
-date: 
+date: 2023-08-22
 location: "Yamoussoukro, Côte d'Ivoire"
 ---
 
