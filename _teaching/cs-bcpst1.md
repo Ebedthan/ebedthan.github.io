@@ -30,7 +30,7 @@ This page contains material in french for the computer science course for first 
 - Algorithmes opérants par boucles imbriquées [[pdf](/files/09_algorithmique_S1_v2.pdf)]
 - Présentation de la bibliothèque Numpy [[pdf](/files/10_algorithmique_S1_v2.pdf)]
 - Procédures, fonctions et fonctions récursives [[pdf](/files/11_algorithmique_S1_v2.pdf)]
-- Algorithmes de tri naïfs [[pdf](/files/12_algorithmique_s1_v2.pdf)]
+- Algorithmes de tri naïfs [[pdf](/files/12_algorithmique_S1_v2.pdf)]
 
 ### Méthodes de programmation
 
