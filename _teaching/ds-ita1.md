@@ -12,9 +12,9 @@ This page contains material in french for the descriptive statistics course for 
 
 - Présentation [[pdf](/files/00_presentation_sd_v2.pdf)]
 - Fondements de la statistique descriptive [[pdf](/files/01_fondements_statistique_descriptive_v2.pdf)]
-- Statistique descriptive univariée [[pdf](/files/01_statistique_descriptive_univariee_v2.pdf)]
-- Statistique descriptive bivariée [[pdf](/files/01_statistique_descriptive_bivariee_v2.pdf)]
-- Indices et mesures d'inégalités [[pdf](/files/01_indices_et_mesures_dinegalite_v2.pdf)]
+- Statistique descriptive univariée [[pdf](/files/02_statistique_descriptive_univariee_v2.pdf)]
+- Statistique descriptive bivariée [[pdf](/files/03_statistique_descriptive_bivariee_v2.pdf)]
+- Indices et mesures d'inégalités [[pdf](/files/04_indices_et_mesures_dinegalite_v2.pdf)]
 
 
 ### Book an appointment
