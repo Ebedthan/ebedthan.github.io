@@ -19,6 +19,12 @@ This page contains material in french for the computer science course for second
 - Simulation de variables aléatoires [[pdf](/files/01_TP1_methodes_numeriques_S3_v2.pdf)]
 - Simulation d'une chaîne de Markov [[pdf](/files/02_TP2_methodes_numeriques_S3_v2.pdf)]
 
+### Révision et Approfondissement sur les graphes
+
+- Notions de base, modélisation d'un graphe [[pdf](/files/20_graphes_S2_v2.pdf)]
+- Algorithme de parcours en largeur [[pdf](/files/21_graphes_S2_v2.3.pdf)]
+- Algorithme de Dijkstra [[pdf](/files/04_graphes_S3_v2.pdf)]
+
 
 ### Book an appointment
 
