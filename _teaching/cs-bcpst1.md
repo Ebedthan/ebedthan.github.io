@@ -48,7 +48,7 @@ This page contains material in french for the computer science course for first 
 ### Graphes
 
 - Notions de base, modélisation d'un graphe [[pdf](/files/20_graphes_S2_v2.pdf)]
-- Algorithme de parcours en largeur [[pdf](/files/21_graphes_S2_v2.pdf)]
+- Algorithme de parcours en largeur [[pdf](/files/21_graphes_S2_v2.3.pdf)]
 
 ### Méthodes numériques
 
