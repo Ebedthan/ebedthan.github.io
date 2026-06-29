@@ -5,15 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-Find my articles on <u><a href="https://scholar.google.com/citations?user=t5Xg23sAAAAJ&hl=en">my Google Scholar profile</a>.
+My full publication list is available on my
+[Google Scholar profile](https://scholar.google.com/citations?user=t5Xg23sAAAAJ&hl=en).
 
-<!--
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}-->
+## Selected Publications
 
-{% include base_path %}
-<!---
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+**xgt: a command-line interface for the Genome Taxonomy Database with cross-release taxonomic comparison**  
+Ebou A. et al. - *in preparation*
+
+**Soil bacterial diversity and evenness across Sub-Saharan Africa: a Bayesian hierarchical atlas of environmental drivers and uncertainty-aware diversity predictions**  
+Ebou A. et al. - *in preparation*
+
+**Microbial succession in West African secondary forests: rapid internal stabilisation without convergence toward old-growth reference states**  
+Ebou A. et al. - *in preparation*
